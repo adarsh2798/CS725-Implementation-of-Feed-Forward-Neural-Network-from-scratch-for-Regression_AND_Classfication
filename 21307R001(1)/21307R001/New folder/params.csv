@@ -1,0 +1,7 @@
+﻿Namle,Value
+learning rate,0.001
+batch size,32
+beta(ADAM),0.85
+gamma(ADAM),0.999
+num_layers,2
+num_units,20

@@ -1,0 +1,7 @@
+﻿Name,Value
+learning_rate,0.1
+batch_size,32
+num_layer,2
+num_units,64
+beta(for ADAM),0.9
+gamma(for ADAM),0.999
