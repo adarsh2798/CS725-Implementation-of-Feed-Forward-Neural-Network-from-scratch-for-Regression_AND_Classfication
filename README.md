@@ -18,3 +18,7 @@ The codes can be found in the [folder](https://github.com/adarsh2798/Implementat
 Here, I have implemeneted a neural netwrok from scratch for claasifying songs as ("Very Old", "Old", "New" and "Recent").
 Used sigmoid activation with 4 neurons in output layer. Trained the network and evaluated the network on validation data.
 The code can be found [here](https://github.com/adarsh2798/CS725-Implementation-of-Feed-Forward-Neural-Network-from-scratch-for-Regression_AND_Classfication/tree/main/21307R001(1)/21307R001/New%20folder)
+
+Link to kaggle [here](https://www.kaggle.com/competitions/cs-725-autumn-2022-assignment-classification/overview)
+
+Link to leaderboard in kaggle is [here](https://www.kaggle.com/competitions/cs-725-autumn-2022-assignment-classification/leaderboard)
