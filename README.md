@@ -11,7 +11,7 @@ A kaggle task was hosted [here](https://www.kaggle.com/competitions/cs725-2022-a
 
 The link to kaggle's private leaderboard is [here](https://www.kaggle.com/competitions/cs725-2022-assignment-regression/leaderboard), where I got a score of 10.84250 and rank 27.
 
-##The codes can be found in the [folder](https://github.com/adarsh2798/Implementation-of-Feed-Forward-Neural-Network-from-scratch-for-Regression-task/tree/main/21307R001(1)/21307R001)
+## The codes can be found in the [folder](https://github.com/adarsh2798/Implementation-of-Feed-Forward-Neural-Network-from-scratch-for-Regression-task/tree/main/21307R001(1)/21307R001)
 
 # 2. Classification
 
